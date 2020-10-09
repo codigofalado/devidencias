@@ -1,0 +1,42 @@
+# Devidências
+
+**Quando eu digo que HTML é programar** (Quando eu digo que deixei de te amar)
+**É porque eu programo** (É porque eu te amo)
+**Quando digo que aprendi o TDD** (Quando eu digo que não quero mais você)
+**É porque não testo** (É porque eu te quero)
+**Eu tenho medo de errar a configuração** (Eu tenho medo de te dar meu coração)
+**E derrubar o servidor em produção** (E confessar que eu estou em suas mãos)
+**Mas não imaginar o Github verdim** (Mas não posso imaginar o que vai ser de mim)
+**Sem commitar todo dia** (Se eu te perder um dia)
+**Eu me afobo e faço tudo em PHP** (Eu me afasto e me defendo de você)
+**Mas depois me ferro** (Mas depois me entrego)
+**Passo o dia copiando o Stack Overflow** (Faço tipo, falo coisas que eu não sou)
+**E depois eu nego** (Mas depois eu nego)
+**Mas a verdade é que eu já programei em C** (Mas a verdade é que eu sou louco por você)
+**Então não tenho muito medo de sofrer** (E tenho medo de pensar em te perder)
+**Eu preciso aceitar que C++** (Eu preciso aceitar que não dá mais)
+**Vai facilitar a minha vida** (Pra separar as nossas vidas)
+
+REFRAO
+**E nessa loucura** (E nessa loucura)
+**De não usar mais o jQuery** (De dizer que não te quero)
+**Vou abraçando as tendências** (Vou negando as aparências)
+**Instalando as dependências** (Disfarçando as evidências)
+**Mas pra que o NPM** (Mas pra que viver fingindo)
+**Se eu já tenho o YARN instaladão** (Se eu não posso enganar meu coração)
+**E o Docker rodando!** Eu sei que te amo
+**Chega de ser ninja** (Chega de mentiras)
+**De falar que eu sou Full Stack** (De negar o meu desejo)
+**Eu dependo só do Google** (Eu te quero mais que tudo)
+**E também do Bootstrap** (Eu preciso dos seus beijos)
+**E no final digo pro Senior** (Eu entrego a minha vida)
+**Acerta esses erros para mim** (Pra você fazer o que quiser de mim)
+**Só quero conseguir sair do VIM** (Só quero ouvir você dizer que sim)
+
+**Faz back em Java** (Diz que é verdade)
+**Diz que não trava** (Que tem saudade)
+**E bota a culpa no SysAdmin** (Que ainda você pensa muito em mim)
+
+**Diz que é React** (Diz que é verdade)
+**Faz Pull Request** (Que tem saudade)
+**e aprova enquanto eu tomo um cafézim** (Que ainda você quer viver pra mim)

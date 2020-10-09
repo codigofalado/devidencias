@@ -6,7 +6,7 @@
 **É porque não testo** (É porque eu te quero)  
 **Eu tenho medo de errar a configuração** (Eu tenho medo de te dar meu coração)  
 **E derrubar o servidor em produção** (E confessar que eu estou em suas mãos)  
-**Mas não imaginar o Github verdim** (Mas não posso imaginar o que vai ser de mim)  
+**Mas não dá pra imaginar o Github verdim** (Mas não posso imaginar o que vai ser de mim)  
 **Sem commitar todo dia** (Se eu te perder um dia)  
 **Eu me afobo e faço tudo em PHP** (Eu me afasto e me defendo de você)  
 **Mas depois me ferro** (Mas depois me entrego)  

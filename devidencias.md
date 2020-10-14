@@ -17,7 +17,7 @@
 **Eu preciso aceitar que C++** (Eu preciso aceitar que não dá mais)  
 **Vai facilitar a minha vida** (Pra separar as nossas vidas)
 
-## REFRAO
+## REFRÃO
 
 **E nessa loucura** (E nessa loucura)  
 **De não usar mais o jQuery** (De dizer que não te quero)  

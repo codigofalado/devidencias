@@ -18,7 +18,7 @@
 
 - jpbrab0
 
-- rafael_rotiroti
+- [rafael_rotiroti] (https://github.com/rotirotirafa)
 
 - tatianecarneiro
 
